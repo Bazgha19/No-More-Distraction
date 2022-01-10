@@ -4,7 +4,7 @@ Don't want any distraction on youtube then use no more distraction. It helps you
 
 **Before Extension**
 
-![Screenshot of side bar on youtube](./example/Screenshot 2022-01-10 193138.png)
+![Screenshot of side bar on youtube](Screenshot 2022-01-10 193138.png)
 
 ![Screenshot of side bar on youtube](./example/Screenshot 2022-01-10 193138.png)
 ![Screenshot of comment section on youtube](./example/Screenshot 2022-01-10 193310.png)
