@@ -1,0 +1,19 @@
+/* Hide Sidebar in youtube */
+ytd-watch-flexy[flexy] #secondary.ytd-watch-flexy{
+    display: none;
+}
+
+/* Hide Comment Section */
+#comments{
+    display: none;
+}
+
+/* Hide Cards of the video */
+.ytp-ce-element.ytp-ce-element-show{
+    display: none;
+}
+
+/* Hide the Video tiles after ending the youtube video */
+.ytp-show-tiles .ytp-videowall-still{
+    display: none;
+}

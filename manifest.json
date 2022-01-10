@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "No_More_Distraction",
+    "version": "1.0",
+    "description": "Don't want any distraction on youtube then use no more distraction. It helps you in hiding the upnext section, comment section, cards as well as the video tiles shown in the last. So now you're focused on a single video and save your time by not clicking on the suggested videos",
+
+    "content_scripts": [
+        {
+          "matches": ["https://www.youtube.com/"],
+          "js": ["content.js"],
+          "css": ["content.css"]
+        }
+      ]
+    
+
+}
